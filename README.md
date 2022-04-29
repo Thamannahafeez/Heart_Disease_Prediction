@@ -1,4 +1,9 @@
 # HeartDiseasePrediction
+Problem description
+Your goal is to predict the binary class heart_disease_present, which represents whether or not a patient has heart disease:
+0 represents no heart disease present
+1 represents heart disease present
+
 The heart disease prediction file creates a supervised prediction model to predict whether the patient is having heart disease or not.
 The dataset provided was in the form of two separate CSV files, one contained the features and the other the target.
 The outliers are eliminated using the Interquartile range. 
